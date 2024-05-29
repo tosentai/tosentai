@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tosentai.tosentai&left_color=darkviolet&right_color=indigo&left_text=profile%20views"  />
+</div>
+
 # Привіт! Я tosentai 👋
 
 Мене звати Антон. Я захоплююся розробкою програмного забезпечення і завжди прагну вдосконалювати свої навички.
@@ -10,10 +14,6 @@
 ## 📊 Статистика GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tosentai&show_icons=true&theme=radical)
-
-## 🏆 Трофеї
-
-![GitHub Трофеї](https://github-profile-trophy.vercel.app/?username=tosentai&theme=onedark)
 
 ## 💻 Технології та Інструменти
 
