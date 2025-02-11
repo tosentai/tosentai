@@ -9,7 +9,6 @@
 - 🔭 Зараз не працюю ні над чим (chilling)
 - 🌱 Вивчаю Python, C#, C++, HTML, CSS і React
 - 👯 Шукаю співпрацю в сфері Data Science і backend dev
-- ⚡ Цікавинка про мене: Я дотер :)
 
 ## 📊 Статистика GitHub
 
