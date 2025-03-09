@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a passionate developer from Ukraine, constantly learning and improving my skills.
 
-- 🔭 Currently working on **[CreepStat.gg](https://github.com/Tosentai)**
+- 🔭 Currently working on **[CreepStat.gg](https://github.com/tosentai/CreepStat)**
 - 🌱 Learning **C#, TailwindCSS**
 - 💬 Ask me about **Python, C++**
 - ⚡ Fun fact: *I used to be a Dota 2 pro player!*
