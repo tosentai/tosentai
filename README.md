@@ -12,7 +12,7 @@ I'm a passionate developer from Ukraine, constantly learning and improving my sk
 ### 📂 My Work
 You can find all my projects here: [My Projects](https://docs.google.com/document/d/1z5UJjqQxiNBWr9zoG6a-B8S5kgIqqu9FP7SKdSgwu9U/edit?tab=t.0)
 
-Check out my resume: [My Resume](https://drive.google.com/file/d/1y7exw3U08XPwesL9eyLnytiV3XBQ-HIC/view?usp=sharing)
+Check out my resume: [My Resume](https://cv-rho-jet.vercel.app/)
 
 ---
 
