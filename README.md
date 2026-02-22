@@ -4,7 +4,7 @@
 ### 🚀 About Me
 I'm a passionate developer from Ukraine, constantly learning and improving my skills.
 
-- 🔭 Currently working on **[CreepStat.gg](https://github.com/tosentai/CreepStat)**
+- 🔭 Currently working on projects in [Gismart](https://gismart.com/)
 - 🌱 Learning **C#, TailwindCSS**
 - 💬 Ask me about **Python, C++**
 - ⚡ Fun fact: *I used to be a Dota 2 pro player!*
@@ -20,6 +20,7 @@ Check out my resume: [My Resume](https://cv-rho-jet.vercel.app/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tosentai)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tosentai_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anton.anpilohov@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://www.linkedin.com/in/tosentai/)
 
 ---
 
