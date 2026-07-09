@@ -36,8 +36,6 @@ Developer from **Ostroh, Ukraine** 🇺🇦. I build things across the web, desk
 mobile — **React**, **C#**, **Python**, **Flutter** — mostly to learn and to see
 what I can make. Former Dota 2 player; still competitive, now against my own code.
 
-Resume → **[https://cv-tosentai.vercel.app](https://cv-tosentai.vercel.app/)**
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
