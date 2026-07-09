@@ -42,7 +42,7 @@ what I can make. Former Dota 2 player; still competitive, now against my own cod
 <!--                            TECH STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -66,7 +66,7 @@ what I can make. Former Dota 2 player; still competitive, now against my own cod
 <!--                          ACTIVITY GRAPH                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
