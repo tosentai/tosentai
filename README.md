@@ -20,7 +20,7 @@
 <a href="https://www.twitch.tv/tosentai"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
 <a href="https://instagram.com/tosentai_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:anton.anpilohov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://cv-rho-jet.vercel.app/"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Resume"/></a>
+<a href="https://cv-tosentai.vercel.app/"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Resume"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=tosentai&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="profile views" />
 
